@@ -7,6 +7,4 @@ int main()
     cout << "Size of int: " << sizeof(int);
     cout << "Size of float: " << sizeof(float);
     cout << "Size of double: " << sizeof(double);
-
-    return 0;
 }
